@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "SF221.app"
-               BlueprintName = "SF221"
-               ReferencedContainer = "container:SF221.xcodeproj">
+               BuildableName = "Welendar.app"
+               BlueprintName = "Welendar"
+               ReferencedContainer = "container:Welendar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "SF221Tests.xctest"
-               BlueprintName = "SF221Tests"
-               ReferencedContainer = "container:SF221.xcodeproj">
+               BuildableName = "WelendarTests.xctest"
+               BlueprintName = "WelendarTests"
+               ReferencedContainer = "container:Welendar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SF221.app"
-            BlueprintName = "SF221"
-            ReferencedContainer = "container:SF221.xcodeproj">
+            BuildableName = "Welendar.app"
+            BlueprintName = "Welendar"
+            ReferencedContainer = "container:Welendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "SF221.app"
-            BlueprintName = "SF221"
-            ReferencedContainer = "container:SF221.xcodeproj">
+            BuildableName = "Welendar.app"
+            BlueprintName = "Welendar"
+            ReferencedContainer = "container:Welendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
